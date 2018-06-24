@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # JoyPacketCli
 This is a simple console application package for having fun in console.
 =======
@@ -21,4 +21,3 @@ This is a simple console application package for having fun in console.
 ```
     help
 ```
->>>>>>> initial commit
