@@ -10,12 +10,12 @@
 ### Installation
 
 ```
-    npm install fun_packet
+    npm install fun_packet -g
 
-```
-
+``` 
+        
 ### If you stuck in using simply type
 
 ```
-    help
+   fun help
 ```
