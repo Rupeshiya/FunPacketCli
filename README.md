@@ -11,11 +11,20 @@
 
 ```
     npm install fun_packet -g
+<<<<<<< HEAD
+=======
+
+```
+>>>>>>> initial commit
 
 ``` 
         
 ### If you stuck in using simply type
 
 ```
+<<<<<<< HEAD
    fun help
+=======
+  fun help
+>>>>>>> initial commit
 ```
