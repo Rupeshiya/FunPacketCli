@@ -1,6 +1,6 @@
 {
   "name": "fun_packet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This will give you lots of fun like jokes and sentence analysis.",
   "main": "./bin/fun.js",
   "bin": {
