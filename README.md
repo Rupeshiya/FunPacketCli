@@ -37,7 +37,7 @@
 ```
     fun check --text="hello world"
     or,
-    fun check -t="hello world"
+    fun check --t="hello world"
     
 ```
 
