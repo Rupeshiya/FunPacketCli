@@ -11,20 +11,33 @@
 
 ```
     npm install fun_packet -g
-<<<<<<< HEAD
-=======
-
-```
->>>>>>> initial commit
 
 ``` 
         
 ### If you stuck in using simply type
 
 ```
-<<<<<<< HEAD
-   fun help
-=======
   fun help
->>>>>>> initial commit
 ```
+### To start jokes
+```
+    fun start --jokes
+    or,
+    fun start --j
+```
+
+### To continue jokes
+
+```
+    fun next --j
+```
+
+### To check sentimental analysis of a word or sentence
+
+```
+    fun check --text="hello world"
+    or,
+    fun check -t="hello world"
+    
+```
+
