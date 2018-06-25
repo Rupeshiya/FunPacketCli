@@ -29,6 +29,8 @@
 ### To continue jokes
 
 ```
+    fun next --joke
+    or,
     fun next --j
 ```
 
