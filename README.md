@@ -45,4 +45,4 @@
 ### Demo, After installation:-
 ![select node js command prompt 7_6_2018 12_15_04 am](https://user-images.githubusercontent.com/31209617/42374187-38344a4e-80cc-11e8-85e7-d7691b545e25.gif)
 
-### Made with :heart:by rupeshiya
+### Made with :heart: by rupeshiya
