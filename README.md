@@ -12,8 +12,8 @@
 ```
     npm install fun_packet -g
 
-``` 
-        
+```
+
 ### If you stuck in using simply type
 
 ```
@@ -40,8 +40,9 @@
     fun check --text="hello world"
     or,
     fun check --t="hello world"
-    
+
 ```
+### Demo, After installation:-
+![select node js command prompt 7_6_2018 12_15_04 am](https://user-images.githubusercontent.com/31209617/42374187-38344a4e-80cc-11e8-85e7-d7691b545e25.gif)
 
 ### Made with :heart:by rupeshiya
-
