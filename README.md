@@ -2,7 +2,9 @@
 
 # FunPacketCli
 
-  <img src="https://img.shields.io/badge/dynamic/json.svg?label=Downloads&url=https%3A%2F%2Fapi.npmjs.org%2Fdownloads%2Fpoint%2Flast-month%2Ffun_packet&query=downloads&colorB=%2307ef22&prefix=Last-month%3A-" alt="npm downloads" ></img>
+  <img src="https://img.shields.io/badge/dynamic/json.svg?label=Downloads&url=https%3A%2F%2Fapi.npmjs.org%2Fdownloads%2Fpoint%2Flast-month%2Ffun_packet&query=downloads&colorB=%2307ef22&prefix=Last-month%3A-" alt="npm-downloads">
+  </img>
+
 
 ### It is a simple CLI tool which will give you lots of fun like by providing jokes.. etc.
 
@@ -33,11 +35,19 @@
     fun next --joke
     or,
     fun next --j
+<<<<<<< HEAD
 ```
 
 ### To check sentimental analysis of a word or sentence
 
 ```
+=======
+```
+
+### To check sentimental analysis of a word or sentence
+
+```
+>>>>>>> master
     fun check --text="hello world"
     or,
     fun check --t="hello world"

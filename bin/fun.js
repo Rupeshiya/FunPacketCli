@@ -2,6 +2,10 @@
 
 var request = require('request');
 var colors = require('colors');
+<<<<<<< HEAD
+=======
+var os = require('os');
+>>>>>>> master
 
 var yargs = require('yargs');
 
@@ -73,7 +77,7 @@ var command = argv._[0];
 //commands
 if(command === 'start')
 {
-  CFonts.say('Hello|world!', {
+  CFonts.say(`Hello|${os.userInfo().username}`, {
       font: 'block',              // define the font face
       align: 'center',              // define text alignment
       colors: ['red'],         // define all colors
@@ -84,7 +88,11 @@ if(command === 'start')
       maxLength: '13',             // define how many character can be on one line
   });
 
+<<<<<<< HEAD
   console.log( '\x1b[31m\x1b[1mWarning:\x1b[22m \x1b[93mJokes may makes \x1b[4m you\x1b[24m laugh.\x1b[0m' ); 
+=======
+  console.log( '\x1b[31m\x1b[1mWarning:\x1b[22m \x1b[93mJokes may makes \x1b[4m you\x1b[24m laugh.\x1b[0m' );
+>>>>>>> master
   console.log('Jokes started..');
   jokes();
 }
