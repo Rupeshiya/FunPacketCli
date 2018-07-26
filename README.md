@@ -38,11 +38,6 @@
 
 ```
 
-### To check sentimental analysis of a word or sentence
-
-```
-=======
-```
 
 ### To check sentimental analysis of a word or sentence
 
