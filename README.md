@@ -41,12 +41,6 @@
 ### To check sentimental analysis of a word or sentence
 
 ```
-=======
-```
-
-### To check sentimental analysis of a word or sentence
-
-```
     fun check --text="hello world"
     or,
     fun check --t="hello world"
