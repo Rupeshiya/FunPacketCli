@@ -35,19 +35,12 @@
     fun next --joke
     or,
     fun next --j
-<<<<<<< HEAD
+
 ```
 
 ### To check sentimental analysis of a word or sentence
 
 ```
-=======
-```
-
-### To check sentimental analysis of a word or sentence
-
-```
->>>>>>> master
     fun check --text="hello world"
     or,
     fun check --t="hello world"
