@@ -48,6 +48,6 @@
 
 ```
 ### Demo, After installation:-
-![select node js command prompt 7_6_2018 12_15_04 am](https://user-images.githubusercontent.com/31209617/42374187-38344a4e-80cc-11e8-85e7-d7691b545e25.gif)
+![fun_demo_v2](https://user-images.githubusercontent.com/27918662/46553088-d95e5b00-c8dc-11e8-8095-5e516f0d16a5.gif)
 
 ### Made with :heart: by rupeshiya
