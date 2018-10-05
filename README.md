@@ -48,6 +48,6 @@
 
 ```
 ### Demo, After installation:-
-![fun_demo](https://user-images.githubusercontent.com/27918662/46448376-cdf91b80-c786-11e8-86e1-28370b7348bf.gif)
+![fun_demo_v2](https://user-images.githubusercontent.com/27918662/46553088-d95e5b00-c8dc-11e8-8095-5e516f0d16a5.gif)
 
 ### Made with :heart: by rupeshiya
